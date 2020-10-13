@@ -1,5 +1,5 @@
-# maybe-riscv
-This project is a very easy implementation in Verilog HDL,which is a homework of Computer Architecture Experiment.
+# Maybe-riscv
+This project is a very easy implementation of risc-v in Verilog HDL,which is a homework of Computer Architecture Experiment.
 
 ## tool-chain
 https://github.com/riscv/riscv-gnu-toolchain
@@ -7,7 +7,7 @@ https://github.com/riscv/riscv-gnu-toolchain
 ## five-stage version
 | feature | maybe-riscv |
 | :-----: | :---------: |
-| ISA | Risc32I |
+| ISA | Riscv32I |
 | Pipelining | five |
 | Data forwarding | Yes |
 | Branch prediction | BTB |
